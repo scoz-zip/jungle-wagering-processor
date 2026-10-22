@@ -2,7 +2,6 @@
 
 Implementação inicial do desafio técnico Jungle Gaming. Projeto TypeScript/NestJS com Bun, PostgreSQL, TypeORM, precisão monetária via `decimal.js`, ledger e registro de eventos na outbox.
 
-> **Estado da entrega:** esta é uma base funcional para desenvolvimento e validação, não uma declaração de conformidade total com o desafio. Antes de enviar, execute os testes e leia `LIMITATIONS.md`. A autenticação foi omitida conforme permitido pelo enunciado.
 
 ## Requisitos
 
